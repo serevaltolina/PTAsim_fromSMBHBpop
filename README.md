@@ -4,7 +4,7 @@ In this repository we stored all the main scripts used for the project described
 
 ["Testing strengths, limitations and biases of current Pulsar Timing Arrays detection analyses on realistic data"](https://arxiv.org/abs/2309.13117).
 
-The correspondent datasets can be found at ***add zenodo DOI***
+The correspondent datasets can be found at  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10276364.svg)](https://doi.org/10.5281/zenodo.10276364)
 
 If you make use of any of these scripts/data, please cite:
 ```
