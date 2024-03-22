@@ -8,14 +8,15 @@ The correspondent datasets can be found at  [![DOI](https://zenodo.org/badge/DOI
 
 If you make use of any of these scripts/data, please cite:
 ```
-@article{Valtolina:2023axp,
-    author = "Valtolina, Serena and Shaifullah, Golam and Samajdar, Anuradha and Sesana, Alberto",
-    title = "{Testing strengths, limitations and biases of current Pulsar Timing Arrays detection analyses on realistic data}",
-    eprint = "2309.13117",
-    archivePrefix = "arXiv",
-    primaryClass = "astro-ph.HE",
-    month = "9",
-    year = "2023"
+@article{ refId0,
+	author = {{Valtolina, Serena} and {Shaifullah, Golam} and {Samajdar, Anuradha} and {Sesana, Alberto}},
+	title = {Testing strengths, limitations, and biases of current pulsar timing arrays’ detection analyses on realistic data},
+	DOI= "10.1051/0004-6361/202348084",
+	url= "https://doi.org/10.1051/0004-6361/202348084",
+	journal = {A&A},
+	year = 2024,
+	volume = 683,
+	pages = "A201",
 }
 ```
 
